@@ -1,0 +1,35 @@
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\nunit.engine.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\nunit.engine.api.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\CalcTests.exe.config
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\CalcTests.exe
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\CalcTests.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\nunit.framework.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\WebDriver.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\nunit.framework.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\nunit.framework.xml
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\bin\Debug\WebDriver.xml
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\obj\Debug\CalcTests.csprojResolveAssemblyReference.cache
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\obj\Debug\CalcTests.csproj.CoreCompileInputs.cache
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\obj\Debug\CalcTests.csproj.CopyComplete
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\obj\Debug\CalcTests.exe
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests\CalcTests\obj\Debug\CalcTests.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\nunit.engine.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\nunit.engine.api.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\CalcTests.exe.config
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\CalcTests.exe
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\CalcTests.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\nunit.framework.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\WebDriver.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\Winium_WebDriver.dll
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\nunit.framework.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\nunit.framework.xml
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\bin\Debug\Winium_WebDriver.pdb
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\obj\Debug\CalcTests.csprojResolveAssemblyReference.cache
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\obj\Debug\CalcTests.csproj.CoreCompileInputs.cache
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\obj\Debug\CalcTests.csproj.CopyComplete
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\obj\Debug\CalcTests.exe
+D:\Cobal Ingeniring\Bell Integrator AT School\CalcTests - Copy (2)\CalcTests\obj\Debug\CalcTests.pdb
